@@ -15,7 +15,7 @@ public class DriverAccessor {
 	// 自分のmysqlのユーザー名
 	private final static String USER_NAME = "root";
 	// 自分のmysqlのパスワード
-	private final static String PASSWORD = "YUtsuki-0321";
+	private final static String PASSWORD = "mallow";
 
 	public Connection createConnection() {
 		try {
